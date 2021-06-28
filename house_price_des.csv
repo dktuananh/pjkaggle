@@ -49,8 +49,8 @@ BsmtFullBath,Basement full bathrooms
 BsmtHalfBath,Basement half bathrooms
 FullBath,Full bathrooms above grade
 HalfBath,Half baths above grade
-Bedroom,Number of bedrooms above basement level
-Kitchen,Number of kitchens
+BedroomAbvGr,Number of bedrooms above basement level
+KitchenAbvGr,Number of kitchens
 KitchenQual,Kitchen quality
 TotRmsAbvGrd,Total rooms above grade (does not include bathrooms)
 Functional,Home functionality rating
